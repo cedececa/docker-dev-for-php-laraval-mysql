@@ -1,0 +1,5 @@
+### Docker ###
+# Docker volumes and local data
+**/volumes/
+**/mysql-data/
+**/postgres-data/
